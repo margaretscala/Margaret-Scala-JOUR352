@@ -1,0 +1,16 @@
+h1, h2, h3, h4, h6, h5, body, head{
+
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: gray;
+
+
+}
+
+#name{
+    font-size: 3em;
+    color: #33485e;
+    text-transform: uppercase;
+
+}
+
