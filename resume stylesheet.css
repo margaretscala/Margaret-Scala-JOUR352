@@ -1,12 +1,19 @@
-h1, h2, h3, h4, h6, h5, body, head{
 
+<!--styles for my resume-->
+
+
+
+
+<!--base layers of fonts-->
+
+#name, #sectionheader, #date, #jobtitle, #organization{
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     color: gray;
-
-
 }
 
+
+<!--name font colors and 
 #name{
     font-size: 3em;
     color: #33485e;
@@ -14,3 +21,108 @@ h1, h2, h3, h4, h6, h5, body, head{
 
 }
 
+#sectionheader{
+
+    font-size: 1.5em;
+    text-transform: uppercase;
+    background-color: #33485e;
+    color: white;
+    font-weight: 400;
+
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-left: 0;
+    margin-right: 0;
+
+}
+
+#name{
+
+    border-bottom: 1px color= #33485e;
+    width: 60%; min-width: 300px;
+    margin: 0 auto= center;
+}
+
+#organization{
+
+    font-size: 1.5em;
+
+}
+
+#jobtitle {
+
+    font-size: 1.5em;
+    font-weight: 600px;
+}
+
+#date{
+
+    font-weight: 400px;
+    font-style: italic;
+    font-size: 1em;
+}
+
+.description {
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.menu {
+
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: inline;
+}
+
+.degrees {
+    margin-top: 5px;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+.do {
+    margin-top: 5px;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+
+.title {
+    margin-top: 20px; 
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    font-weight: 600;
+    text-align: center; 
+}
+
+
+.top {
+    width: 60%; 
+    min-width: 300px; 
+    margin: 0 auto; 
+    margin-bottom: 30px; 
+    margin-top: 20px; 
+    margin-right: 0;
+    margin-left: 0;
+    font-weight: 600; 
+    text-align: center; 
+}
+
+.container {
+    width: 100%; 
+    max-width: 1200px; 
+    margin: 0 auto; 
+    margin-top: 20px; 
+    margin-bottom: 50px;
+    margin-right: 0;
+    margin-left: 0;
+    font-weight: 600; 
+    text-align: center; 
+}
