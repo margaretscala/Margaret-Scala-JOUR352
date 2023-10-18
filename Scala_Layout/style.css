@@ -1,0 +1,114 @@
+#content {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    font-family: Georgia, serif;
+    font-size: 13px;
+}
+
+#pic {
+
+    width:fit-content;
+    max-width: 1000px;
+    min-width: 600px;
+    margin: 0% auto;
+    align-items:stretch;
+
+
+}
+
+#headline {
+
+    font-size: 20px;
+    font-family: Helvetica, sans-serif;
+    font-weight: 500;
+    font-style: bold;
+    text-align: center;
+}
+
+#byline {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    }
+
+#img-1-caption {
+
+   text-align: center;
+   font-size: 10px;
+   font-family: Georgia, serif;
+
+}
+
+#img-2-caption{
+
+    text-align: center;
+    font-size: 10px;
+    font-family: Georgia, serif;
+
+}
+
+#image{
+
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#image-2{
+
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#image-3{
+
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#img-3-caption{
+
+    text-align: center;
+    font-size: 10px;
+    font-family: Georgia, serif;
+
+}
+
+blockquote{
+    font-size: 48px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color:darkslateblue;
+}
+
+#read-more{
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color:darkslateblue;
+    text-align: center;
+}
+
+#my-links{
+    margin: 0 auto;
+    font-family: Georgia, serif;
+    font-size: 13px;
+    text-align: left;
+    color:cornflowerblue
+}
+
