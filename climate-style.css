@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.header {
+    background-image: url('background-image.jpg'); /* Replace with your image URL */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 4em 1em; /* Increase padding for a larger header */
+    position: relative;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 3em; /* Increase font size for a larger header text */
+    letter-spacing: 3px;
+    cursor: pointer;
+    transition: color 0.3s, transform 0.3s;
+}
+
+.header h1:hover {
+    color: #FFD700; /* Change color on hover (e.g., gold) */
+    transform: scale(1.1); /* Add a subtle scale effect on hover */
+}
+
+.content {
+    padding: 20px;
+}
