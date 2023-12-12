@@ -1,0 +1,171 @@
+
+body{
+    background-color: rgba(25, 66, 25, 0.668);
+}
+
+
+#container {
+    width: 100%;
+    max-width: 900px;
+    margin: 30px;
+    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 75 px;
+
+}
+
+.story{
+    background-color: rgb(255, 255, 255);
+}
+
+#coco-name{
+
+    color:rgb(163, 181, 196);
+    margin: 0 auto;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: 600 px;
+
+}
+
+.overlay {
+    position: absolute;
+    top: 20%;
+}
+
+.hero-container {
+    position:relative;
+    text-align: center;
+    color: rgb(202, 228, 250);
+    text-transform: uppercase;
+
+}
+
+.hero-hed {
+    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Kalam', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 60px;
+    color:rgb(83, 123, 89);
+    margin: 0 auto;
+    text-transform: uppercase;
+
+
+}
+
+.hero-sub {
+    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Kalam', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+    opacity: .7;
+    color:rgb(83, 123, 89);
+    margin: 0 auto;
+    text-transform: uppercase;
+}
+
+.hero-image {
+    width:100%;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 30px;
+
+}
+
+.overlay {
+    position:absolute;
+    top:20%;
+    width: 100%;
+    background-color: darkblue;
+    opacity: .7;
+    height: 150px;
+    border-bottom: 15px;
+}
+#container {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+#pull-quote{
+    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Kalam', cursive;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(36, 83, 36);
+    font-size: 2.5em;
+    font-weight: 700;
+    text-align: justify;
+    padding: 15px 0 15px 0;
+    border-top: 2px solid rgb(1, 32, 1);
+    border-bottom: 2px solid rgb(1, 32, 1);
+    font-style: italic;
+}
+
+h1{
+    font-size: 40px;
+    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    color: rgb(68, 91, 133);
+    border-bottom: 3px solid rgb(68, 91, 133);
+}
+
+#story{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+}
+
+h2{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:darkblue;
+    text-decoration: underline;
+    font-weight: bold;
+
+}
+
+PICTURE{
+    width:fit-content;
+    max-width: 1000px;
+    min-width: 300px;
+    margin: 0% auto;
+    align-items:stretch;
+    margin-top: 15px;
+    margin-bottom: 15px;
+   
+
+}
+
+
+PICTURE{
+    width:fit-content;
+    max-width: 1000px;
+    min-width: 300px;
+    margin: 0% auto;
+    align-items:stretch;
+    margin-bottom: 15px;
+   object-position: right;
+
+}
+
+
+PICTURE{
+    width:fit-content;
+    max-width: 1000px;
+    min-width: 300px;
+    margin: 0% auto;
+    align-items:stretch;
+    margin-bottom: 15px;
+   object-position: right;
+
+}
+
+h3{
+    font-size: 15px;
+}
+
+.table{
+    border-left: 85px;
+    border-right: 85px;
+}
